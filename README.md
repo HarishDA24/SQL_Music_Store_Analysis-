@@ -8,6 +8,7 @@ Overview
 The Online Music Store sells music tracks, albums, and related products to customers worldwide. The goal of this project is to gain insights into customer behavior, sales trends, and product popularity.
 
 Features:
+
 1.Customer Segmentation:
 Analyze customer demographics (age, location, etc.) to identify different customer segments.
 Understand which customer segments contribute the most to revenue.
